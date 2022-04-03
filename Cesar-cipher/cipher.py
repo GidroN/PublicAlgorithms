@@ -1,4 +1,4 @@
-def cesar(word, enc=True, step=4):
+def cesar(word, enc=True, step):
 
     def encrypt():
         output_mass = []
